@@ -71,9 +71,12 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/setfile.bin:system/vendor/firmware/setfile.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_BH.bin:system/vendor/firmware/SlimISP_BH.bin \
+    $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_BK.bin:system/vendor/firmware/SlimISP_BK.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_GD.bin:system/vendor/firmware/SlimISP_GD.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_GH.bin:system/vendor/firmware/SlimISP_GH.bin \
+    $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_GJ.bin:system/vendor/firmware/SlimISP_GJ.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_GK.bin:system/vendor/firmware/SlimISP_GK.bin \
+    $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_GM.bin:system/vendor/firmware/SlimISP_GM.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_JH.bin:system/vendor/firmware/SlimISP_JH.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_PH.bin:system/vendor/firmware/SlimISP_PH.bin \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/SlimISP_WH.bin:system/vendor/firmware/SlimISP_WH.bin \
