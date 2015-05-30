@@ -30,3 +30,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/usr/keylayout/sec_e-pen.kl:system/usr/keylayout/sec_e-pen.kl \
     $(LOCAL_PATH)/proprietary/system/usr/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl
+
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/proprietary/system/app/base.apk:system/app/base.apk \
+    $(LOCAL_PATH)/proprietary/system/app/com.otaudater.feature.xml:/system/etc/permissions/com.otaudater.feature.xml \
+    $(LOCAL_PATH)/proprietary/system/rom.ota.prop:/system/rom.ota.prop
+
