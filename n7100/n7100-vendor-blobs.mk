@@ -36,3 +36,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/app/com.otaudater.feature.xml:/system/etc/permissions/com.otaudater.feature.xml \
     $(LOCAL_PATH)/proprietary/system/rom.ota.prop:/system/rom.ota.prop
 
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bluetooth/bcm4334.hcd:system/vendor/firmware/bluetooth/bcm4334.hcd \
+    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bluetooth/bcm4334_murata.hcd:system/vendor/firmware/bluetooth/bcm4334_murata.hcd \
+    $(LOCAL_PATH)/proprietary/system/vendor/firmware/bluetooth/bcm4334_semcosh.hcd:system/vendor/firmware/bluetooth/bcm4334_semcosh.hcd
